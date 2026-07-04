@@ -1,101 +1,266 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Murshidabad Organic Farm</ {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
-        }
-        header {
-            background-color: #4CAF50;
-            color: white;
-            padding: 10px 0;
-            text-align: center;
-        }
-        nav {
-            display: flex;
-            justify-content: center;
-            background: #333;
-        }
-        nav a {
-            color: white;
-            padding: 14px 20px;
-            text-decoration: none;
-            text-align: center;
-        }
-        nav a:hover {
-            background-color: #ddd;
-            color: black;
-        }
-        .container {
-            padding: 20px;
-        }
-        .section {
-            margin: 20px 0;
-            background: white;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        .footer {
-            background-color: #333;
-            color: white;
-            text-align: center;
-            padding: 10px 0;
-            position: fixed;
-            width: 100%;
-            bottom: 0;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>Murshidabad Organic Farm</h1>
-        <p>Pioneering Organic Farming & International Collaboration</p>
-    </header>
-    <nav>
-        <a href="#about">About Us</a>
-        <a href="#services">Services</a>
-        <a href="#products">Products</a>
-        <a href="#course">Course</a>
-        <a href="#contact">Contact</a>
-    </nav>
-    <div class="container">
-        <div id="about" class="section">
-            <h2>About Us</h2>
-            <p>We are thrilled to introduce "Murshidabad Organic Farm," a pioneering initiative dedicated to organic farming. With five years of experience, we have diligently developed a robust research and development system as well as a comprehensive product design system. Additionally, we are proud to hold an export-import license, enabling us to facilitate a wide range of organic farming designs.</p>
-        </div>
-        <div id="services" class="section">
-            <h2>Our Services</h2>
-            <p>Murshidabad Organic Farm offers a variety of services including farm planning, organic certification assistance, sustainable practices implementation, and more. Our dedicated team provides expert consultation services to help you establish and maintain an organic farm that meets international standards.</p>
-        </div>
-        <div id="products" class="section">
-            <h2>Our Products</h2>
-            <p>We design and sell a range of products including organic seeds, farming tools, farm-to-table products, and eco-friendly packaging. Our products are designed to support sustainable agriculture and are available for both local and international markets.</p>
-        </div>
-        <div id="course" class="section">
-            <h2>6-Month Course Module</h2>
-            <p>We are excited to announce a detailed 6-month course module tailored for graduate scholars who are passionate about sustainable agriculture. Starting from the Selling Module, our team envisions a future where international collaboration is not only encouraged but also celebrated. Through this course, participants will gain hands-on experience and knowledge in driving innovation in future food and medications.</p>
-            <p>Our dream within the selling module is to create a revolution that will not only transform these industries but also shape the future of how we produce, distribute, and consume essential resources. We aim to create a global network of like-minded individuals and organizations who share our passion for shaping the future of food and medications.</p>
-        </div>
-        <div id="healing" class="section">
-            <h2>Healing and Counselling Counter</h2>
-            <p>At the Murshidabad Organic Farm, we are pleased to announce the addition of a healing and counselling counter. This counter will be available to people of all ages, providing support and guidance to those in need. Whether you are seeking emotional healing or professional counselling, our dedicated team is here to assist you. Visit our healing and counselling counter and take a step towards a healthier and happier life.</p>
-        </div>
-        <div id="contact" class="section">
-            <h2>Contact Us</h2>
-            <p>For more information about our services, products, or courses, please contact us at:</p>
-            <p>Email: info@murshidabadorganicfarm.com</p>
-            <p>Phone: +91-7092090008</p>
-            <p>Address: Murshidabad Organic Farm, Murshidabad, West Bengal, India</p>
-        </div>
-    </div>
-    <footer class="footer">
-        <p>&copy; 2024 Murshidabad Organic Farm. All rights reserved.</p>
-    </footer>
-</body>
-</html>
+<!--
+Profile README for Yousufsk120
+Maintained as a public research identity: electronic materials, device fabrication, neuromorphic computing, sustainable innovation, and open science.
+-->
+
+<div align="center">
+
+# Md. Yousuf Sk
+
+### Electronic Materials & Device Researcher  
+### Device Fabrication • Materials Synthesis • Characterization • Neuromorphic Computing • Sustainable Innovation
+
+**Turning functional materials into intelligent devices — and science into technologies for a better world.**
+
+</div>
+
+---
+
+## About Me
+
+I am an **Electronic Materials & Device Researcher** working at the intersection of advanced materials, device fabrication, device physics, emerging memory technologies, neuromorphic computing, and sustainable innovation.
+
+My core strength is not conventional software engineering. My foundation is **experimental research**: designing materials, processing thin films, fabricating devices, characterizing material and device behavior, extracting parameters, and connecting experimental observations with device-physics mechanisms.
+
+I use GitHub as a public research space to document scientific ideas, experimental workflows, device concepts, research platforms, educational resources, AI-assisted research tools, and long-term technology initiatives.
+
+---
+
+## Core Identity
+
+```text
+Materials  →  Thin Films  →  Devices  →  Characterization  →  Device Physics  →  Intelligent Systems
+```
+
+My work is centered on one question:
+
+> **How can advanced materials and emerging device architectures enable low-power, intelligent, sustainable technologies for the future?**
+
+---
+
+## Core Expertise
+
+### Materials & Processing
+
+- Functional materials and electronic materials
+- Perovskite nanocrystals and hybrid materials
+- Material synthesis and solution processing
+- Thin-film formation and process optimization
+- Interface and defect-sensitive material behavior
+
+### Device Fabrication
+
+- Thin-film electronic device fabrication
+- Metal–insulator–metal device structures
+- Memory and memristive device architectures
+- Crossbar-style device concepts
+- Spin coating, evaporation, patterning, and device assembly
+- Solid-state device fabrication workflow and process thinking
+
+### Characterization & Analysis
+
+- Electrical characterization of memory devices
+- Current–voltage measurements and switching analysis
+- Device parameter extraction
+- Endurance, retention, threshold switching, and resistive switching studies
+- Material characterization using SEM, AFM, XRD, FTIR, UV–Vis and related methods
+- Device-physics interpretation of experimental data
+
+### Device Physics
+
+- Charge transport
+- Ion migration
+- Conductive filament formation
+- Interface barrier modulation
+- Defect and vacancy-assisted switching
+- Volatile and non-volatile memory behavior
+- Neuromorphic device response and synaptic behavior
+
+---
+
+## Research Focus
+
+- Memristors and resistive switching devices
+- Emerging memory technologies
+- Perovskite-based electronic devices
+- Neuromorphic computing hardware
+- Memory-centric and post-CMOS computing
+- Low-power electronics
+- AI-assisted scientific research
+- Scientific visualization and open research tools
+
+---
+
+## Flagship Initiatives
+
+### BrainChipY
+
+**BrainChipY** is a long-term research and hobby initiative focused on future memory-centric intelligent hardware.
+
+It explores:
+
+- Memristor-based neuromorphic computing
+- Emerging memory device architectures
+- Hardware-inspired AI and neuromorphic algorithms
+- Scientific visualization of memory devices
+- AI-assisted research workflows
+- Open educational resources for next-generation computing
+
+BrainChipY is not only a coding project. It is a research vision where device physics, materials science, hardware concepts, and AI-assisted tools come together.
+
+### MemristorIndia
+
+**MemristorIndia** is envisioned as an open knowledge platform for memory devices, memristors, neuromorphic computing, device structures, materials, research updates, and educational resources.
+
+Goal: to support students, researchers, and innovators working on emerging memory technologies in India and globally.
+
+### Sustainable Innovation & Future Food
+
+Beyond electronic devices, I am also deeply interested in technologies that support:
+
+- Future food systems
+- Sustainable agriculture
+- Organic and circular farming
+- Environmental protection
+- Hazardous-free living environments
+- Better and healthier communities
+- Science-led solutions for a better world
+
+---
+
+## Research Philosophy
+
+I believe scientific innovation should not remain confined to laboratories.
+
+Research becomes meaningful when it can:
+
+- improve human life,
+- protect the environment,
+- create accessible knowledge,
+- inspire young researchers,
+- and transform ideas into useful technologies.
+
+My GitHub reflects this philosophy: it is a developing public research lab where experimental science, open documentation, AI-assisted tools, and long-term technology vision meet.
+
+---
+
+## Tools & Research Workflow
+
+I use software as a **research accelerator**, not as my primary identity.
+
+Tools and workflows I engage with include:
+
+- AI-assisted research and programming
+- Python for scientific workflows and data analysis
+- MATLAB for numerical and experimental analysis
+- LabVIEW and instrument-control workflows
+- Git and GitHub for documentation and collaboration
+- Scientific visualization tools
+- Research databases and literature mapping
+- Documentation-first project development
+
+---
+
+## Laboratory & Technical Skills
+
+```text
+Material synthesis
+Thin-film processing
+Spin coating
+Thermal evaporation
+Device fabrication
+Metal–insulator–metal structures
+Electrical characterization
+Probe station measurements
+Keithley SMU workflows
+SEM / AFM / XRD / FTIR / UV–Vis interpretation
+Device parameter extraction
+Scientific figure preparation
+Experimental data interpretation
+```
+
+---
+
+## Long-Term Vision
+
+My long-term vision is to contribute to the development of intelligent electronic systems by combining:
+
+- advanced functional materials,
+- innovative device fabrication,
+- memory-centric computing,
+- neuromorphic hardware,
+- AI-assisted scientific discovery,
+- and open research collaboration.
+
+At the same time, I want to apply scientific thinking beyond electronics — toward sustainable agriculture, future food, environmental restoration, green materials, and technologies that help build a safer and better world.
+
+---
+
+## What You Will Find Here
+
+This GitHub profile will gradually host and organize:
+
+- Research notes and technical documentation
+- Memristor and memory-device resources
+- BrainChipY development roadmap
+- Scientific figures and visual explanations
+- Experimental workflows and analysis templates
+- Educational resources for students and researchers
+- Sustainability and future-food project documentation
+- AI-assisted tools for scientific research
+
+---
+
+## Suggested Repository Ecosystem
+
+| Area | Purpose |
+|---|---|
+| **BrainChipY** | Neuromorphic computing, memory-centric AI hardware, device-inspired algorithms |
+| **MemristorIndia** | Open knowledge platform for memristors and emerging memory devices |
+| **Research Portfolio** | Publications, presentations, figures, device work, and scientific highlights |
+| **Device Physics Notes** | Mechanisms, models, parameter extraction, and experimental interpretation |
+| **Scientific Visualization** | Figures, diagrams, educational graphics, and research storytelling |
+| **Future Food & Sustainability** | Sustainable agriculture, spirulina, BSFL, future food, circular systems |
+
+---
+
+## Collaboration Interests
+
+I am open to collaboration in:
+
+- Memristor and emerging memory devices
+- Neuromorphic computing and AI hardware
+- Device fabrication and characterization
+- Perovskite and functional material systems
+- Scientific visualization and open education
+- AI-assisted research tools
+- Sustainable agriculture and future food systems
+- Technology-for-humanity initiatives
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yousufsk120&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yousufsk120&layout=compact&hide_border=true)
+
+</div>
+
+---
+
+## Professional Positioning
+
+I do not present this profile as a conventional coder portfolio.
+
+This is a **research-first, code-enabled** space for advanced materials, device engineering, neuromorphic computing, AI-assisted research, sustainability, and open scientific innovation.
+
+---
+
+<div align="center">
+
+### From materials to devices. From devices to intelligence. From science to a better world.
+
+</div>
